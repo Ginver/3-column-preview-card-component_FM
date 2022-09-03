@@ -24,6 +24,17 @@ body {
 
 }
 
+.card--orange {
+    background-color: hsl(31, 77%, 52%);
+}
+
+.card--blue {
+    background-color: hsl(184, 100%, 22%);
+}
+.card--green {
+    background-color: hsl(179, 100%, 13%);
+}
+
 .card__car-image{
     margin-bottom: 35px;
 }
@@ -33,7 +44,7 @@ body {
     font-size: 40px;
     font-weight: 700;
     margin-bottom: 25px;
-
+    color: hsl(0, 0%, 95%);
 }
 
 .card__content {
@@ -42,7 +53,7 @@ body {
     font-weight: 400;
     line-height: 25px;
     margin-bottom: 83px;
-
+    color: hsla(0, 0%, 100%, 0.75);
 }
 
 .btn {
@@ -50,5 +61,23 @@ body {
     font-size: 15px;
     font-weight: 400;
     padding: 11px 31.5px 12px 31.5px;
+
+}
+
+.btn--orange {
+    color: hsl(31, 77%, 52%);
+}
+
+.btn--blue {
+    color: hsl(184, 100%, 22%);
+}
+
+.btn--green {
+    color: hsl(179, 100%, 13%);
+}
+
+.btn:hover {
+    background-color: transparent;
+    color: hsl(0, 0%, 95%);
 
 }
