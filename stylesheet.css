@@ -21,7 +21,7 @@ body {
 .card {
     width: 307px;
     padding: 48px;
-
+    border-radius: 8px;
 }
 
 .card--orange {
@@ -61,7 +61,9 @@ body {
     font-size: 15px;
     font-weight: 400;
     padding: 11px 31.5px 12px 31.5px;
-
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
 }
 
 .btn--orange {
@@ -79,5 +81,5 @@ body {
 .btn:hover {
     background-color: transparent;
     color: hsl(0, 0%, 95%);
-
+    border: 2px solid hsl(0, 0%, 95%);
 }
