@@ -4,3 +4,22 @@
     box-sizing: border-box;
     /*border: 1px solid red;*/
 }
+
+
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 920px;
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    width: 307px;
+
+}
