@@ -29,10 +29,11 @@ Users should be able to:
 
 ### Screenshot
 ![image](https://user-images.githubusercontent.com/74971813/188313380-ae45300a-f46b-405e-ab03-825a8ed2ce17.png)
+![image](https://user-images.githubusercontent.com/74971813/188327099-ee8025a8-f63b-4674-8bfc-91c1d6ca43ea.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here]((http://localhost:63342/3-column-preview-card-component-main/index.html?_ijt=do4d9vvpp2cfb1mrj4lvo201g2))
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
