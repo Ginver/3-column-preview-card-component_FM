@@ -34,11 +34,6 @@ Users should be able to:
 
 I'd like to continue focusing on responsive design in future projects. This is what I'm still not completely comfortable with and what I want to refine and perfect.
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
 ## Author
 
 - Frontend Mentor - @Ginver (https://www.frontendmentor.io/profile/Ginver)
