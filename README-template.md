@@ -1,6 +1,7 @@
 
 ### The challenge
 
+The challenge is to build out this 3-column preview card component and get it looking as close to the design as possible.
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
@@ -12,7 +13,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: http://localhost:63342/3-column-preview-card-component-main/index.html?_ijt=do4d9vvpp2cfb1mrj4lvo201g2
 - Live Site URL: https://github.com/Ginver/3-column-preview-card-component_FM.git
 
 ## My process
